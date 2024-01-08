@@ -1,6 +1,6 @@
 import express from 'express';
 import cors from 'cors'
-import {screenShare} from './routes/index.js'
+import {screenShare} from './src/routes/index.js'
 
 const app=express();
 
